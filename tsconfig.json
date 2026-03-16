@@ -1,0 +1,2 @@
+{\n  \
+  "compilerOptions": {\n    "target": "es5",\n    "lib": [\n      "dom",\n      "es6"\n    ],\n    "jsx": "react"\n  },\n  "include": [\n    "src"\n  ],\n  "exclude": [\n    "node_modules"\n  ]\n}
